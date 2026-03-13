@@ -9,7 +9,7 @@
     "ip": "MelhorSMP.aternos.me",
     "port": 43878,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
